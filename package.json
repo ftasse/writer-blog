@@ -65,11 +65,11 @@
         "sqlite3": "3.0.5",
         "unidecode": "0.1.3",
         "validator": "3.28.0",
-        "xml": "1.0.0"
+        "xml": "1.0.0",
+        "pg": "4.1.1"
     },
     "optionalDependencies": {
-        "mysql": "2.1.1",
-        "pg": "4.1.1"
+        "mysql": "2.1.1"
     },
     "devDependencies": {
         "bower": "~1.3.10",
